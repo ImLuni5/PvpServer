@@ -1,0 +1,10 @@
+name: Pvp
+version: 1.0.0
+main: main.Main
+api-version: 1.17
+permissions:
+  pvp.admin:
+    description: 어드민
+commands:
+  pvp:
+    description: pvp 관리 명령어
